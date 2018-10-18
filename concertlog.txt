@@ -1,0 +1,22 @@
+User Command: node liri.js concert-this-song undefined
+
+User Command: node liri.js concert-this-song Hotel California 
+
+User Command: node liri.js concert-this Hotel California 
+
+User Command: node liri.js concert-this The Eagles 
+
+User Command: node liri.js concert-this taylor swift 
+
+User Command: node liri.js concert-this taylor 
+
+User Command: node liri.js concert-this 
+
+User Command: node liri.js concert-this beck 
+
+User Command: node liri.js concert-this beck 
+
+User Command: node liri.js concert-this beck 
+
+User Command: node liri.js concert-this taylor swift 
+
