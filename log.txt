@@ -46,3 +46,19 @@ Usage:
     node liri.js concert-this-song "<song_name>"
     node liri.js spotify-this-song "<song_name>"
 
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\axb50\Desktop\BootcampHW\project-1\LiriBotProject\liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js concert-this-song "<song_name>"
+    node liri.js spotify-this-song "<song_name>"
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\axb50\Desktop\BootcampHW\project-1\LiriBotProject\liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js concert-this-song "<song_name>"
+    node liri.js spotify-this-song "<song_name>"
+

@@ -16,3 +16,5 @@ User Command: node liri.js omdbapi-this-movie Titanic
 
 User Command: node liri.js omdbapi-this-movie Titanic 
 
+User Command: node liri.js omdbapi-this-movie Titanic 
+

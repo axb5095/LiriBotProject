@@ -20,3 +20,5 @@ User Command: node liri.js concert-this beck
 
 User Command: node liri.js concert-this taylor swift 
 
+User Command: node liri.js concert-this help from beatles 
+
